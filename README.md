@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Desha-Saeed
-- 👀 I’m interested in Web development, working on front-end projects for now
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Front-end ideas
+- 👀 I’m interested in Web development, working on full-stack projects for now
+- 🌱 I’m currently learning NestJs
+- 💞️ I’m looking to collaborate on Full-stack projects
 - 📫 How to reach me on https://www.linkedin.com/in/mostafa-saeed-0a98481b9/ 
 
 <!---
